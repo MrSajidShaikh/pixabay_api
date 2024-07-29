@@ -1,16 +1,19 @@
-# pixabay_api
+<h3 align="center"> 1. PixaBay API </h3>
 
-A new Flutter project.
+###
 
-## Getting Started
+<h1 align="left"></h1>
 
-This project is a starting point for a Flutter application.
+###
+<div align="center">
+<img src = "https://github.com/user-attachments/assets/628c1c50-759e-46b8-af92-5a337abb6617" width = 22% height = 35%>
+  
+<video src = "https://github.com/user-attachments/assets/71d9d066-5195-4cc1-8fec-c42ac6e35f70">
 
-A few resources to get you started if this is your first Flutter project:
+###
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<div align="center">
+<a href="https://github.com/MrSajidShaikh/pixabay_api">-> 📂 Go To Dart File 📂 <-</a>
+</div>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+###
