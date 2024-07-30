@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:pixabay_api/View/detailScreen.dart';
 import 'package:provider/provider.dart';
 import 'Provider/pixaBay_provider.dart';
 import 'View/pixaBay_screen.dart';
@@ -22,6 +23,7 @@ class MyApp extends StatelessWidget {
         debugShowCheckedModeBanner: false,
         routes: {
           '/': (context) => const SearchScreen(),
+          '/detail': (context) => const Detailscreen(),
         },
       ),
     );
